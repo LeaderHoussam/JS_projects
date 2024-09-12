@@ -1,0 +1,8 @@
+li span.completed {
+  text-decoration: line-through;
+  color: #aaa;
+}
+
+li span.not-completed {
+  color: #333;
+}
